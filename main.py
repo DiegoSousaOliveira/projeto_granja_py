@@ -68,3 +68,4 @@ if connect_wifi():
         print(f"\n💥 Erro: {e}")
 else:
     print("Conexão com a internet falhou!")
+
